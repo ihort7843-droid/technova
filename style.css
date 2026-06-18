@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f8ff;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.menu {
+    margin: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: royalblue;
+    color: white;
+    border: none;
+}
+
+button:hover {
+    background-color: navy;
+}
+
+.page {
+    display: none;
+}
+
+#home {
+    display: block;
+}
+
+.card {
+    display: inline-block;
+    border: 2px solid royalblue;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
